@@ -1,4 +1,4 @@
-# Menja
+# CubeNinja
 
 A game about smashing cubes.
 
